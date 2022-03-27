@@ -1,0 +1,20 @@
+{
+    "version": "1.1.0",
+    "java": {
+        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+    },
+    "servers": [
+        {
+            "id": "main",
+            "name": "Main-Server",
+            "description": "Minecraft 1.18.2",
+            "icon": "http://ChickenDevLab.github.io/NexusLauncher/app/assets/images/SealCircle.png",
+            "version": "1.0",
+            "address": "hypixel.net",
+            "port": 25565,
+            "minecraftVersion": "1.18.2",
+            "mainServer": true,
+            "autoconnect": true
+        }
+    ]
+}
